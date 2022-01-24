@@ -44,7 +44,7 @@ data:
       protocol: http
       source_endpoint: '*'
       tags:
-        name: hello from netlify
+        name: hello from netlify2
         source: RouteContainer
       updated_at: '2022-01-24T19:52:20'
     id: d73cc233-c00c-4428-a7bc-f30022f41978
