@@ -1,2 +1,5 @@
 # [[plugins]]
 #     package = "../netlify-plugin-dm"
+
+[[plugins]]
+  package = "netlify-plugin-dm"
