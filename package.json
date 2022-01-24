@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dmarynych/netlify-test-site#readme",
   "devDependencies": {
-    "netlify-plugin-dm": "1.2.0"
+    "netlify-plugin-vgs": "0.0.1"
   }
 }
